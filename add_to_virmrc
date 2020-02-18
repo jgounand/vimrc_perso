@@ -1,0 +1,8 @@
+
+hi clear CursorLine
+hi CursorLine gui=underline cterm=underline
+set mouse=c
+noremap <Up> <Nop>
+noremap <Down> <Nop>
+noremap <Left> <Nop>
+noremap <Right> <Nop>
